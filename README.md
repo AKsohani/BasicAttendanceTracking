@@ -6,11 +6,14 @@ BasicAttendanceTracking is a simple decentralized system to create events and tr
 ## Project Vision
 To build a trustless attendance tracking platform that eliminates manual errors, fraudulent attendance claims, and central authority control by leveraging blockchain technology.
 
-## Key Features
-- Create events with name, date, and organizer information
-- Mark attendance by attendees after event start time
-- Query attendance status for any attendee
-- Transparent and immutable attendance records on-chain
+## Key Features 
+Create Events: Register events with details like name, date, and organizer address.
+
+Attendance Marking: Attendees can mark their attendance only after the event's scheduled start time.
+
+Attendance Query: View attendance status for any participant.
+
+On-Chain Records: All attendance data is stored transparently and immutably on the blockchain.
 
 ## Future Scope
 - Integration with identity verification to prevent fake attendance
