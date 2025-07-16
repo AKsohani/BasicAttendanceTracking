@@ -1,9 +1,9 @@
 # BasicAttendanceTracking
 
-## Project Description
+# Project Description
 BasicAttendanceTracking is a simple decentralized system to create events and track attendance on the blockchain. It allows event organizers to register events, and attendees to mark their presence transparently and immutably.
 
-## Project Vision
+# Project Vision
 Build a trustless attendance tracking platform using blockchain technology to eliminate manual errors, prevent fraudulent attendance claims, and remove reliance on a central authority.
 
 ## Key Features 
